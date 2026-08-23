@@ -1,1 +1,2 @@
 Alô, eu sou o Gabriel
+O Git está difícil demais, facilita aí
